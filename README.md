@@ -28,10 +28,10 @@ Replay or Quit: Choose whether to play another round or exit the game.
 
 
 
-Symbol Details
-Symbol	Count in Reels	Value (Multiplier)
-A	      2	               5
-B	      4	               4
-C	      6	               3
-D	      8	               2
+
+Symbol and Value (Multiplier):
+A-5
+B-4
+C-3
+D-2
 
